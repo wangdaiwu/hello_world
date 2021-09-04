@@ -8,5 +8,4 @@ hello git!
 hello git!
 hello git!
 hello git! master
-hello git! hot-fix test
-666
+hello git! hot-fix
